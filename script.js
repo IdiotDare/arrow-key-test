@@ -7,8 +7,8 @@ document.onkeydown = function(e) {
             alert('up');
             break;
         case 39:
-            alert('right');
             document.getElementById("first") = "  no script added";
+            alert('right');
             break;
         case 40:
             alert('down');
